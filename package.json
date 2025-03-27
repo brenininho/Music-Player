@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "innit": "^0.0.0"
+  },
+  "devDependencies": {
+    "electron": "^35.1.1"
+  }
+}
